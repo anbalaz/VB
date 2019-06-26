@@ -100,7 +100,6 @@
     </Compile>
     <Compile Include="Parrot.vb" />
     <Compile Include="Snake.vb" />
-    <Compile Include="SortableBindingList.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Form1.resx">
